@@ -15,10 +15,24 @@ export const categoryItems: iAppProps[] = [
         imageUrl: "https://a0.muscache.com/pictures/10ce1091-c854-40f3-a2fb-defc2995bcaf.jpg",
     },
     {
-        id: 0,
+        id: 1,
         name: "trending",
         description: "This property is trending.",
         title: "Trending",
+        imageUrl: "https://a0.muscache.com/pictures/10ce1091-c854-40f3-a2fb-defc2995bcaf.jpg",
+    },
+    {
+        id: 2,
+        name: "luxe",
+        description: "This property is luxury.",
+        title: "Luxe",
+        imageUrl: "https://a0.muscache.com/pictures/10ce1091-c854-40f3-a2fb-defc2995bcaf.jpg",
+    },
+    {
+        id: 3,
+        name: "garden",
+        description: "This property is in a garden.",
+        title: "Garden",
         imageUrl: "https://a0.muscache.com/pictures/10ce1091-c854-40f3-a2fb-defc2995bcaf.jpg",
     }
 ]
